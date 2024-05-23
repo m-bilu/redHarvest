@@ -30,16 +30,18 @@ To build a social media management platform capable of connecting with multiple 
 
 ---
 
-## Stage 1 Goals
-- Outline action points on kanban board
-- Setup confluence page for info dumping (route map, etc.)
+## Stage 1: Week 1-2
+- Outline 1-2 week's action points on kanban board
+- Setup confluence page (they are called wikis on github) for info dumping (route map, etc.)
 - Fill out competition excel sheet (use for tool list building): https://docs.google.com/spreadsheets/d/1WAfdacLZ87s0FWN3ZDYcF5mO20C8qQLqyaNfKWnFh1A/edit?usp=sharing
 - Develop version 1 of front and back end with Material UI + Next/Vercel, next-auth, supabase + stripe
     - Confirm full list of classical-type tools :
     - Complete Figma with layout containing classic-level functionality
         - Complete full routes map
+    - Complete functionality to connect various social media accounts to current app w/ authentication (how many apps we covering? is it a discrete set of popular social media platforms?)
+    - Show perliminary data (listed earlier) according to Figma design
 
 ## Stage 2 Goals
 
 
-## Stage 3 Goals
+## Stage 3 Goals 
